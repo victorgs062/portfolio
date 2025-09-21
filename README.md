@@ -7,6 +7,7 @@ Me chamo Victor Gabriel Silva e tenho experiência em **Análise de Dados**, **L
 
 ## Skills
 - **Análise de Dados:** Power BI, Python (ETL), SQL, Qlik Sense  
+- **Banco de dados:** Oracle SQL, SQL Server, SQLite, PostgreSQL, MySQL
 - **Lua:** Scripts para MTA:SA, MySQL e SQLite  
 - **Back-End Java:** APIs com Spring Boot, integração de sistemas
 
